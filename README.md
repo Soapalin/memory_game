@@ -8,6 +8,11 @@ A small, static memory card matching game built with plain HTML, CSS, and JavaSc
 - Keyboard navigation with arrow keys and Enter/Space
 - Match and mismatch feedback with a brief lockout
 
+## Play from my website
+```
+https://soapalin.github.io/memory_game/
+```
+
 ## Run locally
 1. Open `index.html` in your browser.
 2. Click New Game or change theme/difficulty to restart.
