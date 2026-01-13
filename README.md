@@ -23,6 +23,3 @@ A small, static memory card matching game built with plain HTML, CSS, and JavaSc
 
 ## Project structure
 - `index.html`: all HTML, CSS, and JavaScript for the game.
-
-## License
-Add a license file if you plan to publish this publicly.
